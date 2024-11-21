@@ -1,3 +1,4 @@
 EMIT_DATASET/
 .ipynb_checkpoints/
-EMIT-Data-Resources/
+EMIT-Data-Resources
+chips/
