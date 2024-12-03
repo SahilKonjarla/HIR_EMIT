@@ -2,3 +2,5 @@ EMIT_DATASET/
 .ipynb_checkpoints/
 EMIT-Data-Resources
 chips/
+dataset_for_cnn/
+reflectance/
