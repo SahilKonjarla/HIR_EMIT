@@ -6,3 +6,4 @@ dataset_for_cnn/
 reflectance/
 reflectance_*/
 chips_*/
+saved_models/
