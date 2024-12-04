@@ -4,3 +4,5 @@ EMIT-Data-Resources
 chips/
 dataset_for_cnn/
 reflectance/
+reflectance_1/
+chips_1/
